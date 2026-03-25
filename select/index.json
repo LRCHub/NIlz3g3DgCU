@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "MONTERO (Call Me By Your Name)",
   "base_artist": "Lil Nas X",
-  "createdAt": "2026-02-19T15:09:50.600976Z",
+  "createdAt": "2026-03-25T14:58:06.461395Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -99,6 +99,15 @@
       "artist": "Lil Nas X",
       "has_synced": false,
       "path": "select/pl_01_MONTERO_(Call_Me_By_Your_Name)_Lil_Nas_X.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "MONTERO (Call Me By Your Name)",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/localdb_01_MONTERO_(Call_Me_By_Your_Name)_Lil_Nas_X.lrc",
+      "repo_name": "NIlz3g3DgCU"
     }
   ]
 }
